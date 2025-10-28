@@ -61,11 +61,11 @@ queries <- c('YOUR_QUERY_HERE')
 ## Citation
 
 ```bibtex
-@software{cortical_mining2024,
+@software{cortical_mining2025,
   author = {Samira},
   title = {Cortical Development Gene Mining},
   year = {2025},
-  url = {https://github.com/yourusername/cortical-gene-mining}
+  url = {https://github.com/Samira0250/LLM_Cortical_genes_litReveiw)}
 }
 ```
 
